@@ -7,8 +7,8 @@
 
 <h3 align="left">👨‍💻 Data Analytical Projects:</h3>
 
-- 📄 Data Analytical Report on Potential of Chicago South Senior Shared Housing (https://github.com/jiayinw/Electronic_Vechicle_Charging_Accessibility_Project)
-- 📄 Project on Electronic Vechicle Charging Station Accessibility in LA County (https://github.com/jiayinw/Chicago_Senior_Shared_Housing_Project)
+- 📄 Project on Electronic Vechicle Charging Station Accessibility in LA County (https://github.com/jiayinw/Electronic_Vechicle_Charging_Accessibility_Project)
+- 📄 Data Analytical Report on Potential of Chicago South Senior Shared Housing (https://github.com/jiayinw/Chicago_Senior_Shared_Housing_Project)
 
 <h3 align="left">📝 Professional Experiences:</h3>
 
